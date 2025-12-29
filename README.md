@@ -1,5 +1,18 @@
 # Étude de cas : Clients Synchrones (RestTemplate vs Feign vs WebClient) avec Eureka et Consul
 
+## Introduction
+Dans une architecture microservices, la communication inter-services est un point critique qui impacte directement les performances, la résilience et la scalabilité du système.
+Les applications modernes doivent être capables de consommer des APIs distantes de manière efficace, tout en restant robustes face aux pannes, aux latences réseau et aux changements dynamiques des services.
+
+Spring Boot et Spring Cloud offrent plusieurs mécanismes pour réaliser des appels HTTP entre microservices, notamment :
+
+ - RestTemplate
+ - Feign
+ - WebClient
+En parallèle, la découverte de services (Service Discovery) est indispensable pour localiser dynamiquement les instances disponibles. Deux solutions majeures sont couramment utilisées :
+- Eureka
+- Consul
+Cette étude vise à comparer ces technologies dans un contexte réel, à travers une architecture microservices simple mais représentative.
 ## Objectifs pédagogiques
 À la fin du lab, il sera possible de :
 
