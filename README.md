@@ -20,8 +20,13 @@ Service Client → (RestTemplate / Feign / WebClient) → Service Voiture
 Résolution du nom logique via Eureka ou Consul
 
 ## Mise en place des microservices
-https://private-user-images.githubusercontent.com/126904199/527550319-9945c710-70a1-49eb-9144-8c0af3b588e1.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcwMDcxMjQsIm5iZiI6MTc2NzAwNjgyNCwicGF0aCI6Ii8xMjY5MDQxOTkvNTI3NTUwMzE5LTk5NDVjNzEwLTcwYTEtNDllYi05MTQ0LThjMGFmM2I1ODhlMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIyOVQxMTEzNDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mN2YwMWFiMzcxOGJlYWFlNWIyZDEyZWM2ZTkxYmUzZDQ0ZDI2ZTEzMDg0MmVlZmIzYTA5MzViMTVlZTZkZGM0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.jtEuNF-Yp_2ixrtTq920WViL2DHtwqbcUA4qMKQDOgs<img width="2940" height="1698" alt="image" src="https://github.com/user-attachments/assets/628efef2-5a54-414d-98b1-6b1acc9a882b" />
-https://private-user-images.githubusercontent.com/126904199/527550723-68ab23ee-cf31-4612-b7d2-aaeae85e4446.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcwMDcxMjQsIm5iZiI6MTc2NzAwNjgyNCwicGF0aCI6Ii8xMjY5MDQxOTkvNTI3NTUwNzIzLTY4YWIyM2VlLWNmMzEtNDYxMi1iN2QyLWFhZWFlODVlNDQ0Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIyOVQxMTEzNDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ODY2NjdmZWNhZWIyZTdhMzg4NmRmNTA4ZGY4OWFjYzEwNzU2Zjc0ZjNmMTYzNzVlNGNjMzEzMDMxMDQ0ZWExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VkU3peEo9igoeMdz75N-MzqpgYL7IcVrLXy3hGMEvfw<img width="2940" height="1698" alt="image" src="https://github.com/user-attachments/assets/55d49fd7-7ca0-46b4-b025-81a214bb4311" />
+<img width="1670" height="962" alt="image" src="https://github.com/user-attachments/assets/eb901973-9d35-492c-bb53-15fad97585c6" />
+<img width="1670" height="992" alt="image" src="https://github.com/user-attachments/assets/b7aefb79-b413-4fc8-8246-c28ebe6a0188" />
+<img width="1670" height="992" alt="image" src="https://github.com/user-attachments/assets/d6da81d7-ff7a-458a-af3d-0cf49406d20d" />
+<img width="1332" height="784" alt="image" src="https://github.com/user-attachments/assets/360c1629-78e0-47c6-8461-39e91e4a8d60" />
+<img width="1332" height="784" alt="image" src="https://github.com/user-attachments/assets/c96e01b1-a617-4cea-b374-6d0f8e7774d2" />
+<img width="1332" height="784" alt="image" src="https://github.com/user-attachments/assets/9bb5d860-2b4d-426c-a2dc-cc72aed3bc5d" />
+
 ## Livrable :
 - Tableau 1 — Performance (latence et débit)
   Eureka
